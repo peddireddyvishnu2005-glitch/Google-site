@@ -65,8 +65,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v16+ recommended).
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Bunnyvalluri/Google-Keep-website-.git
-   cd Google-Keep-website-
+   git clone https://github.com/peddireddyvishnu2005-glitch/Google-site.git
+   cd Google-site
    ```
 
 2. **Install dependencies:**

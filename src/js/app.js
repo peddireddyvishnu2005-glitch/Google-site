@@ -71,8 +71,8 @@ export function initApp() {
 
   // Load and apply user profile data on startup
   const currentProfile = loadProfile() || {
-    name: "Valluri Rahul",
-    email: "vallurirahul3@gmail.com",
+    name: "Vishnu",
+    email: "user@example.com",
     avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=80&q=80"
   };
   updateProfileUI(currentProfile);

@@ -1449,9 +1449,9 @@ export function updateProfileUI(profile) {
   if (DOM.popoverAvatarImg) DOM.popoverAvatarImg.src = avatarUrl;
   if (DOM.popoverAvatarEditImg) DOM.popoverAvatarEditImg.src = avatarUrl;
   
-  if (DOM.profileNameText) DOM.profileNameText.textContent = profile.name || 'Valluri Rahul';
-  if (DOM.profileEmailText) DOM.profileEmailText.textContent = profile.email || 'vallurirahul3@gmail.com';
+  if (DOM.profileNameText) DOM.profileNameText.textContent = profile.name || 'Vishnu';
+  if (DOM.profileEmailText) DOM.profileEmailText.textContent = profile.email || 'user@example.com';
   
-  if (DOM.profileNameInput) DOM.profileNameInput.value = profile.name || 'Valluri Rahul';
-  if (DOM.profileEmailInput) DOM.profileEmailInput.value = profile.email || 'vallurirahul3@gmail.com';
+  if (DOM.profileNameInput) DOM.profileNameInput.value = profile.name || 'Vishnu';
+  if (DOM.profileEmailInput) DOM.profileEmailInput.value = profile.email || 'user@example.com';
 }
